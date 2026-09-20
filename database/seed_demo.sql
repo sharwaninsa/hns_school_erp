@@ -1,0 +1,11 @@
+-- =====================================================================
+-- school-erp / database / seed_demo.sql
+-- Optional demo data. Guarded — the installer and CLI refuse to run
+-- this file unless APP_ENV=local. It must NOT contain any default
+-- password literal; it calls the TenantProvisioner service which
+-- generates random one-time credentials.
+--
+-- This file is intentionally a no-op in Phase 1. Demo inserts land in
+-- Phase 3 (institute + academic year) and Phase 5 (students/staff).
+-- =====================================================================
+-- (empty on purpose)
